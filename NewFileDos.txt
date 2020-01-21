@@ -1,5 +1,4 @@
-This is the other half of the conflict
-K
-hello world
-hi aliens
-bye fish
+Gracie is still a puppy
+this is a conflict
+hello
+
