@@ -1,4 +1,12 @@
 Gracie is still a puppy
+<<<<<<< HEAD
 this is a conflict
 hello
+=======
+Kaleb is still a human...I think
+hello world
+hi aliens
+bye fish
+como estan todos
+>>>>>>> c0d23ed49236f03bdd8c55b2fc668bb8cdf469d4
 
